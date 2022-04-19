@@ -111,6 +111,30 @@
       "married": "",
       "image": "asdfg",
       "id": 11
+    },
+    {
+      "name": "asdfgh",
+      "ownerName": "asdfg",
+      "address": "asdcvb",
+      "areaCode": "zsxdcvbn",
+      "rent": "zsxdcvbn",
+      "preferredTenant": "",
+      "bachelor": "",
+      "married": "",
+      "image": "zxcvb",
+      "id": 12
+    },
+    {
+      "name": "asdfgh",
+      "ownerName": "asdfg",
+      "address": "asdcvb",
+      "areaCode": "zsxdcvbn",
+      "rent": "zsxdcvbn",
+      "preferredTenant": "",
+      "bachelor": "",
+      "married": "",
+      "image": "zxcvb",
+      "id": 13
     }
   ]
 }

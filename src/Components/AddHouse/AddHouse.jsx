@@ -24,7 +24,7 @@ const handleChange=(e)=>{
         
 
 e.preventDefault();
-axios.post("http://localhost:5000/houses",{
+axios.post("http://localhost:8080/houses",{
     name:data.name,
 ownerName:data.ownerName,
 address:data.address,

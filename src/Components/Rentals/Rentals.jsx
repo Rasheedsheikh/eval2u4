@@ -6,7 +6,7 @@ export const Rentals = () => {
      const [cont, setCont]=useState([]);
      const [houses,setHouses]=useState([])
      useEffect(()=>{
-        axios.get("http://localhost:5000/houses").then((res)=>{return res.data} ) .then((e)=>{
+        axios.get("http://localhost:8080/houses").then((res)=>{return res.data} ) .then((e)=>{
             setHouses(e)
             
         })

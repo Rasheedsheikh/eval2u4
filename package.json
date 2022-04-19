@@ -1,5 +1,6 @@
 {
   "name": "u4c2",
+  "proxy": "http://localhost:8080",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server" :"json-server --watch db.json --port 5000",
+    "server" :"json-server --watch db.json --port 8080",
     "hooks":"npm start --prefix hooks"
   },
   "eslintConfig": {
